@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 517bab92d3054484d9f8e86d81da922e, type: 3}
+  m_Name: FlashData
+  m_EditorClassIdentifier: 
+  characterId: b154
+  characterName: Flash
+  characterImage: {fileID: 2800000, guid: 094c8c1e151df634992a2ed783734256, type: 3}
+  currentHits:
+    value: 0
+  recordPoints: 0
+  characterMotion: {fileID: 11400000, guid: 74da33bfbd05be348a55f6525d04b197, type: 2}

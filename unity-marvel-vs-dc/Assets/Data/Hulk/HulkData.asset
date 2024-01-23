@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 517bab92d3054484d9f8e86d81da922e, type: 3}
+  m_Name: HulkData
+  m_EditorClassIdentifier: 
+  characterId: a154
+  characterName: Hulk
+  characterImage: {fileID: 2800000, guid: 73bed3c1d6d2d2643810ed21b2577737, type: 3}
+  currentHits:
+    value: 0
+  recordPoints: 0
+  characterMotion: {fileID: 11400000, guid: 084c416bd9396ef43a26018dcaf4e1e7, type: 2}
