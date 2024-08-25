@@ -69,7 +69,7 @@ Marvel vs DC AR Battle is an open-source project, and contributions are welcome.
 If you have any questions or need further assistance, you can contact the project maintainer:
 
 - Name: Matias Vallejos
-- 🌐 [yourwebsite.com](https://matiasvallejos.com/)
+- 🌐 [matiasvallejos.com](https://matiasvallejos.com/)
 
 Feel free to reach out if you have any inquiries or need any additional information about the project.
 
