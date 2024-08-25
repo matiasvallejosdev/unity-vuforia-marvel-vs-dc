@@ -18,8 +18,8 @@ Get a glimpse of the Marvel vs DC AR Battle experience:
 
 <table>
   <tr>
-    <td><img src="docs/screenshots/screenshot_1.png" alt="Screenshot 1" width="200"/></td>
-    <td><img src="docs/screenshots/screenshot_2.png" alt="Screenshot 2" width="200"/></td>
+    <td><img src="screenshot_1.png" alt="Screenshot 1" width="200"/></td>
+    <td><img src="screenshot_2.png" alt="Screenshot 2" width="200"/></td>
   </tr>
 </table>
 
